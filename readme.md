@@ -2,4 +2,4 @@
 
 Wednesday
 
-Contributed to by Scott Green, Code Ninja
+Contributed to by Scott Green.
